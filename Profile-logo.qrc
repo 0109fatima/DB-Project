@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Profile-logo/new/prefix1">
+        <file>images/Profile icon.png</file>
+    </qresource>
+</RCC>

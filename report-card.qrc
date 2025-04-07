@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/report-card/new/prefix1">
+        <file>D:/downloads/Downloads/report card.png</file>
+        <file>images/report card.png</file>
+    </qresource>
+</RCC>

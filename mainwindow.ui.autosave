@@ -33,7 +33,7 @@
      <string notr="true">background-color: rgb(255, 255, 255);</string>
     </property>
     <property name="currentIndex">
-     <number>13</number>
+     <number>8</number>
     </property>
     <widget class="QWidget" name="pageTeacherAttendance">
      <widget class="QLabel" name="label_7">
